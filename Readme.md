@@ -7,9 +7,8 @@ En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto
 * **Matplotlib**: Para la visualización de datos.
 * **Seaborn**: Para la creación de gráficos estadísticos.
 * **Pandas**: Para la manipulación y análisis de datos.
-* **NumPy**: Para cálculos numéricos y operaciones en arrays.
 * **SciPy**: Para análisis estadístico y pruebas de hipótesis.
-* **Scikit-learn**: Para modelado y análisis predictivo.
+
 #
 ________________________________________________________
 #
