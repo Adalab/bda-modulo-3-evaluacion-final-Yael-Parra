@@ -2,11 +2,14 @@
 
 En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de un proceso estructurado, se ha realizado una exploración inicial, limpieza de datos y análisis estadístico.
 #
-### **Librerías Utilizadas 📚**
+#### **Librerías Utilizadas 📚**
 
-* **Matplotlib:** Para la visualización de datos.  
-* **Seaborn:** Para la creación de gráficos estadísticos.  
-* **Pandas:** Para la manipulación y análisis de datos.
+* **Matplotlib**: Para la visualización de datos.
+* **Seaborn**: Para la creación de gráficos estadísticos.
+* **Pandas**: Para la manipulación y análisis de datos.
+* **NumPy**: Para cálculos numéricos y operaciones en arrays.
+* **SciPy**: Para análisis estadístico y pruebas de hipótesis.
+* **Scikit-learn**: Para modelado y análisis predictivo.
 #
 ________________________________________________________
 #
