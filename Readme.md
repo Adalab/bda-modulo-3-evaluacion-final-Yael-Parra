@@ -48,7 +48,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Se observa en el *DataFrame* que hay una relación directa y lineal, puesto que los puntos equivalen a los tres primeros dígitos de la distancia recorrida.  
      * En el gráfico observamos la relación lineal de cada una de las variables.  
 
-    ![Gráfico 2](grafica2.png)
+      ![Gráfico 2](grafica2.png)
 
    #### 
 
@@ -60,7 +60,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
    * **Aportación:**  
      * Se le sugiere a la empresa un estudio de mercado comparando con otras compañías aéreas del mismo nivel y adaptar una estrategia de marketing adecuada para llegar a implantarse de manera más robusta en las provincias o ciudades en donde lo vea necesario.
 
-    ![Gráfico 3](grafica3.png)
+      ![Gráfico 3](grafica3.png)
 
 4. #### **¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?**
 
@@ -69,7 +69,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Se observa que a mayor grado educativo mayor es el salario.  
      * Se puede intuir que los clientes con únicamente bachillerato serán los salarios más bajos del gráfico, si bien es verdad que no se cuenta con la información del salario de las personas con bachillerato  
 
-    ![Gráfico 4](grafica4.png)
+      ![Gráfico 4](grafica4.png)
 
 5. #### **¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?**
 
@@ -79,7 +79,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
    *  **Aportación:**  
      * Se sugiere que la empresa revise sus estrategias pasadas para poder conocer los motivos por parte de los clientes por esta fuerte tendencia. Seguido, se propone que el equipo de marketing, entre otros, revisen cuál es el equilibrio óptimo de tipos de tarjetas para la empresa y crear una campaña para adecuarlo acorde a lo que desea obtener.
 
-    ![Gráfico 5](grafica5.png)
+      ![Gráfico 5](grafica5.png)
 
 6. #### **¿Cómo se distribuyen los clientes según su estado civil y género?**
 
