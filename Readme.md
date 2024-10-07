@@ -2,6 +2,12 @@
 
 En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de un proceso estructurado, se ha realizado una exploración inicial, limpieza de datos y análisis estadístico.
 #
+### **Librerías Utilizadas 📚**
+
+* **Matplotlib:** Para la visualización de datos.  
+* **Seaborn:** Para la creación de gráficos estadísticos.  
+* **Pandas:** Para la manipulación y análisis de datos.
+#
 ________________________________________________________
 #
 ## **Exploración y Limpieza de Datos 🔍**
@@ -61,6 +67,8 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Se le sugiere a la empresa un estudio de mercado comparando con otras compañías aéreas del mismo nivel y adaptar una estrategia de marketing adecuada para llegar a implantarse de manera más robusta en las provincias o ciudades en donde lo vea necesario.
 
         ![Gráfico 3](grafica3.png)
+       
+     ####     
 
 4. #### **¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?**
 
@@ -70,6 +78,8 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Se puede intuir que los clientes con únicamente bachillerato serán los salarios más bajos del gráfico, si bien es verdad que no se cuenta con la información del salario de las personas con bachillerato
 
         ![Gráfico 4](grafica4.png)
+       
+      ####    
 
 5. #### **¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?**
 
@@ -80,7 +90,9 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Se sugiere que la empresa revise sus estrategias pasadas para poder conocer los motivos por parte de los clientes por esta fuerte tendencia. Seguido, se propone que el equipo de marketing, entre otros, revisen cuál es el equilibrio óptimo de tipos de tarjetas para la empresa y crear una campaña para adecuarlo acorde a lo que desea obtener.
 
         ![Gráfico 5](grafica5.png)
-
+       
+  #### 
+  
 6. #### **¿Cómo se distribuyen los clientes según su estado civil y género?**
 
    * Se decanta por el método gráfico *Barplot*, ya que muestra la comparación entre categorías. También permite la comparación entre variables categóricas.  
@@ -88,6 +100,8 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
      * Es proporcional. El gráfico nos muestra que no hay diferencias significativas de género para los 3 estados civiles (casado, soltero, divorciado). La proporción de divorciados es casi la mitad de solteros, mientras que la de casados es casi el doble que la de solteros. Esto índica que hay una tendencia al matrimonio entre la población de los registros estudiados.
 
        ![Gráfico 6](grafica6.png)
+
+    #### 
 
 ## **Análisis A/B Testing ⚖️**
 
@@ -126,8 +140,14 @@ Se realizó una prueba A/B Testing para determinar si existía una diferencia si
 
     ![Gráfico 7](grafica7.png)
 
-## **Librerías Utilizadas 📚**
+#### 
+______________________________________
+____________________________________
+## **Conclusión** ✅
 
-* **Matplotlib:** Para la visualización de datos.  
-* **Seaborn:** Para la creación de gráficos estadísticos.  
-* **Pandas:** Para la manipulación y análisis de datos.
+Este proyecto de análisis de datos de vuelos y clientes ha permitido comprender mejor el comportamiento de los usuarios en un programa de lealtad de una aerolínea. A través de un exhaustivo proceso de exploración y análisis estadístico, se han identificado patrones en la distribución de reservas, así como la relación entre la distancia de los vuelos y los puntos acumulados. Los resultados sugieren que las estrategias de marketing deben enfocarse en las tendencias estacionales y geográficas, así como en las preferencias por las tarjetas de fidelidad.
+
+El análisis A/B Testing indica que no hay diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes, lo que sugiere que el perfil educativo no es un factor determinante en su comportamiento de reserva. Este hallazgo permite a la aerolínea redirigir sus esfuerzos de marketing hacia otros aspectos más relevantes, estableciendo así una base sólida para futuras estrategias comerciales.
+
+_____________________________________
+_________________________________
