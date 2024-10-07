@@ -126,7 +126,7 @@ Se realizó una prueba A/B Testing para determinar si existía una diferencia si
 
     ![Gráfico 7](grafica7.png)
 
-### **Librerías Utilizadas 📚**
+## **Librerías Utilizadas 📚**
 
 * **Matplotlib:** Para la visualización de datos.  
 * **Seaborn:** Para la creación de gráficos estadísticos.  
