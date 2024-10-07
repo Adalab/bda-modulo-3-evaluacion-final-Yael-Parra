@@ -13,7 +13,7 @@ ________________________________________________________
 ## **Exploración y Limpieza de Datos 🔍**
 #
 Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron las siguientes acciones:
-
+#
 
 * **Renombrado de Columnas**: Se han cambiado los nombres de las columnas para mayor claridad.  
 * **Tipos de Datos**: Se corrigieron los tipos de datos de las columnas para asegurar la correcta manipulación.  
@@ -29,7 +29,7 @@ Se realizó una unión de ambos archivos (*DataFrames*) para tener una base de d
 ## **Métodos Gráficos 📊**
 #
 Se implementaron métodos gráficos para responder a diversas preguntas clave:
-
+#
 
 1. #### **¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?**
 
@@ -111,7 +111,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
 ## **Análisis A/B Testing ⚖️**
 #
 En la fase final, se llevó a cabo un A/B Testing buscando evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
-
+#
 
 1. #### **Análisis Descriptivo sobre las estadísticas principales:** 
 
