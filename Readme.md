@@ -1,7 +1,7 @@
 # **Análisis de Datos de Vuelos y Clientes ✈️**
 
 En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de un proceso estructurado, se ha realizado una exploración inicial, limpieza de datos y análisis estadístico.
-#
+
 #### **Librerías Utilizadas 📚**
 
 * **Matplotlib**: Para la visualización de datos.
