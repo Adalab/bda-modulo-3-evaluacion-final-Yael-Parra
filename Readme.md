@@ -1,4 +1,4 @@
-# **Análisis de Datos de Vuelos y Clientes ✈️**
+# <center>**Análisis de Datos de Vuelos y Clientes ✈️**</center>
 
 En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de un proceso estructurado, se ha realizado una exploración inicial, limpieza de datos y análisis estadístico.
 #
@@ -60,7 +60,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
    * **Aportación:**  
      * Se le sugiere a la empresa un estudio de mercado comparando con otras compañías aéreas del mismo nivel y adaptar una estrategia de marketing adecuada para llegar a implantarse de manera más robusta en las provincias o ciudades en donde lo vea necesario.
 
-        ![Gráfico 3](grafica3.png)
+        ![Gráfico 3](grafica2.png)
 
 4. #### **¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?**
 
