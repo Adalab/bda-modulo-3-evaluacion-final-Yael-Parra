@@ -60,7 +60,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
    * **Aportación:**  
      * Se le sugiere a la empresa un estudio de mercado comparando con otras compañías aéreas del mismo nivel y adaptar una estrategia de marketing adecuada para llegar a implantarse de manera más robusta en las provincias o ciudades en donde lo vea necesario.
 
-        ![Gráfico 3](grafica2.png)
+        ![Gráfico 3](grafica3.png)
 
 4. #### **¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?**
 
