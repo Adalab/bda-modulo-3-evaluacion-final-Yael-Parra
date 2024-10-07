@@ -9,7 +9,7 @@ En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto
 * **Pandas**: Para la manipulación y análisis de datos.
 * **SciPy**: Para análisis estadístico y pruebas de hipótesis.
 ________________________________________________________
-#
+
 ## **Exploración y Limpieza de Datos 🔍**
 
 Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron las siguientes acciones:
@@ -23,9 +23,9 @@ Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron
 
 * **Unión de *DataFrames***
 Se realizó una unión de ambos archivos (*DataFrames*) para tener una base de datos consolidada y más rica en información.
-#
 
-#
+
+
 ## **Métodos Gráficos 📊**
 
 Se implementaron métodos gráficos para responder a diversas preguntas clave:
@@ -105,9 +105,9 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
 
        ![Gráfico 6](grafica6.png)
 
-    #### 
 
-#
+
+
 ## **Análisis A/B Testing ⚖️**
 
 En la fase final, se llevó a cabo un A/B Testing buscando evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
