@@ -55,8 +55,8 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
 
    * Se decanta por el método de gráfico *scatterplot,* ya que contamos con dos variables numéricas y queremos conocer la relación entre ambas, por lo que el método nos puede ayudar a visualizarlo.  
    *  **Lectura:**  
-     * Se observa en el *DataFrame* que hay una relación directa y lineal, puesto que los puntos equivalen a los tres primeros dígitos de la distancia recorrida.  
-     * En el gráfico observamos la relación lineal de cada una de las variables.
+       * Se observa en el *DataFrame* que hay una relación directa y lineal, puesto que los puntos equivalen a los tres primeros dígitos de la distancia recorrida.  
+       * En el gráfico observamos la relación lineal de cada una de las variables.
        
         ![Gráfico 2](grafica2.png)
 
