@@ -124,7 +124,7 @@ Se realizó una prueba A/B Testing para determinar si existía una diferencia si
   * **Conclusión**:  
     Dado que el valor p es tan alto, no se rechaza la hipótesis nula (H0). Esto sugiere que no existen diferencias significativas en el número de vuelos reservados entre los diferentes niveles educativos analizados. En otras palabras, los datos indican que la cantidad de vuelos reservados no varía de manera significativa entre los grupos, lo que puede implicar que el nivel educativo no influye en el comportamiento de reserva de vuelos de los clientes. Este resultado tiene implicaciones importantes, ya que sugiere que las estrategias de marketing o las políticas de precios podrían no necesitar ser ajustadas en función del nivel educativo de los clientes.  
 
-    ![Gráfico 7](Evaluaciones\evaluacion_modulo_03\final_03\bda-modulo-3-evaluacion-final-Yael-Parra\imagenes.png\grafica7.png)
+    ![Gráfico 7](grafica7.png)
 
 ### **Librerías Utilizadas 📚**
 
