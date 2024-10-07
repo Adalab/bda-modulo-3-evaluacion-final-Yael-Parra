@@ -1,10 +1,10 @@
-## **Análisis de Datos de Vuelos y Clientes ✈️**
+# **Análisis de Datos de Vuelos y Clientes ✈️**
 
 En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de un proceso estructurado, se ha realizado una exploración inicial, limpieza de datos y análisis estadístico.
 #
 ________________________________________________________
 #
-### **Exploración y Limpieza de Datos 🔍**
+## **Exploración y Limpieza de Datos 🔍**
 
 Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron las siguientes acciones:
 
@@ -17,7 +17,7 @@ Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron
 * ***Unión de *DataFrames***
 Se realizó una unión de ambos archivos (*DataFrames*) para tener una base de datos consolidada y más rica en información.
 #
-### **Métodos Gráficos 📊**
+## **Métodos Gráficos 📊**
 
 Se implementaron métodos gráficos para responder a diversas preguntas clave:
 
@@ -89,7 +89,7 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
 
      ![Gráfico 6](Evaluaciones\evaluacion_modulo_03\final_03\bda-modulo-3-evaluacion-final-Yael-Parra\imagenes.png\grafica6.png)
 
-### **Análisis A/B Testing ⚖️**
+## **Análisis A/B Testing ⚖️**
 
 En la fase final, se llevó a cabo un A/B Testing buscando evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
 
