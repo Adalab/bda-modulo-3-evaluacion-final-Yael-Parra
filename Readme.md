@@ -143,7 +143,7 @@ Se realizó una prueba A/B Testing para determinar si existía una diferencia si
 #### 
 ______________________________________
 ____________________________________
-## **Conclusión** ✅
+# **Conclusión** ✅
 
 Este proyecto de análisis de datos de vuelos y clientes ha permitido comprender mejor el comportamiento de los usuarios en un programa de lealtad de una aerolínea. A través de un exhaustivo proceso de exploración y análisis estadístico, se han identificado patrones en la distribución de reservas, así como la relación entre la distancia de los vuelos y los puntos acumulados. Los resultados sugieren que las estrategias de marketing deben enfocarse en las tendencias estacionales y geográficas, así como en las preferencias por las tarjetas de fidelidad.
 
