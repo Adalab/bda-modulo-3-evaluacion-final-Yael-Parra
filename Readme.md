@@ -14,7 +14,7 @@ Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron
 * **Eliminación de Duplicados**: Se eliminaron los registros duplicados para evitar sesgos en el análisis.  
 * **Manejo de Nulos y Ceros**: No se rellenaron los nulos o ceros, puesto que tras diversas pruebas se reveló que no hay una relación fuerte entre las variables, así como valores atípicos. Por ende se concluye que los ceros se consideran significativos, revelando información valiosa sobre los datos.
 
-* ***Unión de *DataFrames***
+* **Unión de *DataFrames***
 Se realizó una unión de ambos archivos (*DataFrames*) para tener una base de datos consolidada y más rica en información.
 #
 ## **Métodos Gráficos 📊**
