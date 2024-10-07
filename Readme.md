@@ -8,13 +8,12 @@ En este proyecto, se ha trabajado con dos conjuntos de archivos que, en conjunto
 * **Seaborn**: Para la creación de gráficos estadísticos.
 * **Pandas**: Para la manipulación y análisis de datos.
 * **SciPy**: Para análisis estadístico y pruebas de hipótesis.
-
-#
 ________________________________________________________
 #
 ## **Exploración y Limpieza de Datos 🔍**
 
 Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron las siguientes acciones:
+#
 
 * **Renombrado de Columnas**: Se han cambiado los nombres de las columnas para mayor claridad.  
 * **Tipos de Datos**: Se corrigieron los tipos de datos de las columnas para asegurar la correcta manipulación.  
@@ -25,12 +24,12 @@ Se llevó a cabo un Análisis Exploratorio de Datos (*EDA*), donde se realizaron
 * **Unión de *DataFrames***
 Se realizó una unión de ambos archivos (*DataFrames*) para tener una base de datos consolidada y más rica en información.
 #
-#
-________________________________________________________
+
 #
 ## **Métodos Gráficos 📊**
 
 Se implementaron métodos gráficos para responder a diversas preguntas clave:
+#
 
 1. #### **¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?**
 
@@ -107,12 +106,12 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
        ![Gráfico 6](grafica6.png)
 
     #### 
-#
-________________________________________________________
+
 #
 ## **Análisis A/B Testing ⚖️**
 
 En la fase final, se llevó a cabo un A/B Testing buscando evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
+#
 
 1. #### **Análisis Descriptivo sobre las estadísticas principales:** 
 
@@ -147,7 +146,7 @@ Se realizó una prueba A/B Testing para determinar si existía una diferencia si
 
     ![Gráfico 7](grafica7.png)
 
-#### 
+
 ______________________________________
 ____________________________________
 # **Conclusión** ✅
