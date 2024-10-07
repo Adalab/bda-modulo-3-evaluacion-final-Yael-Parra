@@ -89,9 +89,9 @@ Se implementaron métodos gráficos para responder a diversas preguntas clave:
 
    * Se decanta por el método gráfico *pieplot*, ya que muestra las proporciones de un total y funciona con variables categóricas.  
    *  **Lectura:**  
-     * Se observa que hay una clara tendencia con casi la mitad a la tarjeta *“Star”*, seguido de la tarjeta *“Nova”* con un poco más del 30 porciento y por último la tarjeta *“Aurora”*. Se observa que hay una inclinación clara por la tarjeta *“Star”.*  
+       * Se observa que hay una clara tendencia con casi la mitad a la tarjeta *“Star”*, seguido de la tarjeta *“Nova”* con un poco más del 30 porciento y por último la tarjeta *“Aurora”*. Se observa que hay una inclinación clara por la tarjeta *“Star”.*  
    *  **Aportación:**  
-     * Se sugiere que la empresa revise sus estrategias pasadas para poder conocer los motivos por parte de los clientes por esta fuerte tendencia. Seguido, se propone que el equipo de marketing, entre otros, revisen cuál es el equilibrio óptimo de tipos de tarjetas para la empresa y crear una campaña para adecuarlo acorde a lo que desea obtener.
+       * Se sugiere que la empresa revise sus estrategias pasadas para poder conocer los motivos por parte de los clientes por esta fuerte tendencia. Seguido, se propone que el equipo de marketing, entre otros, revisen cuál es el equilibrio óptimo de tipos de tarjetas para la empresa y crear una campaña para adecuarlo acorde a lo que desea obtener.
 
         ![Gráfico 5](grafica5.png)
        
